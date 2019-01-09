@@ -1411,23 +1411,6 @@
                 "totalCount": 0
             }
         },
-        "CDCgov/llnl.github.io": {
-            "issues_Closed": {
-                "totalCount": 0
-            },
-            "issues_Open": {
-                "totalCount": 0
-            },
-            "pullRequests_Closed": {
-                "totalCount": 0
-            },
-            "pullRequests_Merged": {
-                "totalCount": 0
-            },
-            "pullRequests_Open": {
-                "totalCount": 0
-            }
-        },
         "CDCgov/logstash": {
             "issues_Closed": {
                 "totalCount": 0

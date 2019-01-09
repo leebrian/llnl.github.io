@@ -539,14 +539,6 @@
         "CDCgov/kibana": {
             "licenseInfo": null
         },
-        "CDCgov/llnl.github.io": {
-            "licenseInfo": {
-                "name": "MIT License",
-                "nickname": null,
-                "spdxId": "MIT",
-                "url": "http://choosealicense.com/licenses/mit/"
-            }
-        },
         "CDCgov/logstash": {
             "licenseInfo": null
         },

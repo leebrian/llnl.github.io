@@ -2272,34 +2272,6 @@
             },
             "url": "https://github.com/CDCgov/kibana"
         },
-        "CDCgov/llnl.github.io": {
-            "description": "Public home for LLNL software catalog",
-            "forks": {
-                "totalCount": 0
-            },
-            "homepageUrl": "https://software.llnl.gov",
-            "languages": {
-                "totalCount": 7
-            },
-            "mentionableUsers": {
-                "totalCount": 5
-            },
-            "name": "llnl.github.io",
-            "nameWithOwner": "CDCgov/llnl.github.io",
-            "owner": {
-                "login": "CDCgov"
-            },
-            "primaryLanguage": {
-                "name": "JavaScript"
-            },
-            "repositoryTopics": {
-                "totalCount": 0
-            },
-            "stargazers": {
-                "totalCount": 0
-            },
-            "url": "https://github.com/CDCgov/llnl.github.io"
-        },
         "CDCgov/logstash": {
             "description": null,
             "forks": {

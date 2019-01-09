@@ -209,7 +209,6 @@
                     "CDCgov/kafka",
                     "CDCgov/kafka-connect",
                     "CDCgov/kibana",
-                    "CDCgov/llnl.github.io",
                     "CDCgov/logstash",
                     "CDCgov/maven-repository",
                     "CDCgov/minio",

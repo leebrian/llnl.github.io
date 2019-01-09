@@ -1254,34 +1254,6 @@
                 "totalCount": 1
             }
         },
-        "CDCgov/llnl.github.io": {
-            "languages": {
-                "nodes": [
-                    {
-                        "name": "JavaScript"
-                    },
-                    {
-                        "name": "Python"
-                    },
-                    {
-                        "name": "HTML"
-                    },
-                    {
-                        "name": "CSS"
-                    },
-                    {
-                        "name": "Shell"
-                    },
-                    {
-                        "name": "Makefile"
-                    },
-                    {
-                        "name": "Ruby"
-                    }
-                ],
-                "totalCount": 7
-            }
-        },
         "CDCgov/logstash": {
             "languages": {
                 "nodes": [

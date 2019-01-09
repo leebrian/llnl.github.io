@@ -664,14 +664,6 @@
             "firstCommitAt": "2017-10-16T22:43:03Z",
             "initBeforeGitHubRepo": false
         },
-        "CDCgov/llnl.github.io": {
-            "createdAt": "2019-01-09T03:05:04Z",
-            "defaultBranchRef": {
-                "name": "master"
-            },
-            "firstCommitAt": "2015-11-25T04:16:20Z",
-            "initBeforeGitHubRepo": true
-        },
         "CDCgov/logstash": {
             "createdAt": "2017-09-29T13:35:57Z",
             "defaultBranchRef": {
