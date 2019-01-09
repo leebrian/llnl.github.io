@@ -1,6 +1,6 @@
-# LLNL Software Catalog
+# CDCGov Software Catalog
 
-Author: Ian Lee <lee1001@llnl.gov>
+Fork of https://github.com/LLNL/llnl.github.io (Author: Ian Lee <lee1001@llnl.gov>) to display stats on CDC repositories.
 
 Welcome to the Lawrence Livermore National Laboratory software portal! The purpose of this software portal is to serve as a hub for open source software that is produced by Lawrence Livermore National Laboratory.
 

@@ -28,4 +28,4 @@ query ($ownName: String!, $repoName: String!) {
     }
   }
 }
-# {"ownName": "LLNL", "repoName": "llnl.github.io"}
+# {"ownName": "CDCgov", "repoName": "llnl.github.io"}

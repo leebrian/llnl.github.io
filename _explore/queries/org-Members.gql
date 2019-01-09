@@ -12,4 +12,4 @@ query ($orgName: String!, $numUsers: Int!, $pgCursor: String) {
     }
   }
 }
-# {"orgName": "LLNL", "numUsers": 50, "pgCursor": null}
+# {"orgName": "CDCgov", "numUsers": 50, "pgCursor": null}
