@@ -32,10 +32,22 @@ function draw_line_repoCreationHistory(areaID, repoNameWOwner) {
     var cdcgov = "2015-04-24";
     var iiu = "2012-06-05";
     var guardrail = "2018-10-21";
+    var ombpolicy = "2016-08-08";
+    var hhspolicydraft = "2018-03-25";
 
-    function addDateLine(dateString, label) {
+    function addDateLine(dateString, label, yOffset) {
       var dateObj = parseTime(dateString);
-      drawDateLine(dateObj, label, true, chart, x, y, height, valueline);
+      drawDateLine(
+        dateObj,
+        label,
+        true,
+        chart,
+        x,
+        y,
+        height,
+        valueline,
+        yOffset
+      );
     }
 
     data.forEach(function(d) {
@@ -86,6 +98,8 @@ function draw_line_repoCreationHistory(areaID, repoNameWOwner) {
     timerange.push(guardrail);
     timerange.push(cdcgov);
     timerange.push(iiu);
+    timerange.push(ombpolicy);
+    timerange.push(hhspolicydraft);
 
     // Get min-max values across both datasets
     var datrange = d3.extent(data, function(d) {
@@ -168,7 +182,9 @@ function draw_line_repoCreationHistory(areaID, repoNameWOwner) {
     addDateLine(ghfounded, "GitHub Founded");
     addDateLine(cdcgov, "CDCGov Org Created");
     addDateLine(iiu, "IIU Org Created");
-    addDateLine(guardrail, "Guard Rail 1.0");
+    addDateLine(ombpolicy, "OMB M-16-21");
+    addDateLine(hhspolicydraft, "HHS Drafts", 100);
+    addDateLine(guardrail, "GR 1.0", 50);
 
     // Add title
     chart
